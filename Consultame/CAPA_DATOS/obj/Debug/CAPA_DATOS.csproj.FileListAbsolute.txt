@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb

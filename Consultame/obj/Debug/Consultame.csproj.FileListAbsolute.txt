@@ -1,0 +1,73 @@
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\Consultame.exe.config
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\Consultame.exe
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\Consultame.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\CAPA_PRESENTACION.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\CAPA_DATOS.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\CAPA_NEGOCIOS.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\CAPA_DATOS.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\CAPA_NEGOCIOS.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\obj\Debug\Consultame.Form1.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\obj\Debug\Consultame.Properties.Resources.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\obj\Debug\Consultame.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\obj\Debug\Consultame.csproj.CopyComplete
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\obj\Debug\Consultame.exe
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\obj\Debug\Consultame.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\obj\Debug\Consultame.csprojAssemblyReference.cache
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\Consultame.exe.config
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\Consultame.exe
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\Consultame.pdb
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\CAPA_PRESENTACION.dll
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\CAPA_DATOS.dll
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\CAPA_NEGOCIOS.dll
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\CAPA_PRESENTACION.pdb
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\CAPA_DATOS.pdb
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\bin\Debug\CAPA_NEGOCIOS.pdb
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\obj\Debug\Consultame.csproj.AssemblyReference.cache
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\obj\Debug\Consultame.Form1.resources
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\obj\Debug\Consultame.Properties.Resources.resources
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\obj\Debug\Consultame.csproj.GenerateResource.cache
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\obj\Debug\Consultame.csproj.CoreCompileInputs.cache
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\obj\Debug\Consultame.csproj.CopyComplete
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\obj\Debug\Consultame.exe
+D:\Zharoon\Documentos\II SEMESTRE\CONSULTAME\CONSULTAME\Consultame\obj\Debug\Consultame.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\bin\Debug\CAPA_PRESENTACION.dll.config

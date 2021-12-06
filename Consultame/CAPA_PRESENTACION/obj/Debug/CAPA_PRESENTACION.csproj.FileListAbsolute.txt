@@ -1,0 +1,47 @@
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.dll
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIOS.dll
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIOS.pdb
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Formulario_Principal.resources
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.dll
+C:\Users\DELL\Documents\Visual proyectos\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIOS.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIOS.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Formulario_Principal.resources
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Hoja_Consulta.resources
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Home.resources
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Hoja_Consultas.resources
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Agregar_consulta.resources
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Editar_Eliiminar.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIOS.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIOS.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Agregar_consulta.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Editar_Eliiminar.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Formulario_Principal.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Hoja_Consulta.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Hoja_Consultas.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Home.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb

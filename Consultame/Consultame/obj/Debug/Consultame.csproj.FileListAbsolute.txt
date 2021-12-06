@@ -1,0 +1,33 @@
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\Consultame.exe.config
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\Consultame.exe
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\Consultame.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_PRESENTACION.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_DATOS.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_NEGOCIOS.dll
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_PRESENTACION.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_DATOS.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_NEGOCIOS.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.Form1.resources
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.Properties.Resources.resources
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.csproj.GenerateResource.cache
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.csproj.CoreCompileInputs.cache
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.csproj.CopyComplete
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.exe
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.pdb
+D:\Zharoon\Documentos\II SEMESTRE\Algoritmizacion\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\Consultame.exe.config
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\Consultame.exe
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\Consultame.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_PRESENTACION.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_DATOS.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_NEGOCIOS.dll
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_DATOS.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\bin\Debug\CAPA_NEGOCIOS.pdb
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.Form1.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.Properties.Resources.resources
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.csproj.CopyComplete
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.exe
+C:\Users\DELL\Desktop\CONSULTAME\Consultame\Consultame\obj\Debug\Consultame.pdb
